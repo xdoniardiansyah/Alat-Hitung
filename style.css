@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.angka {
+  font-size: 10rem;
+}
+
+.button {
+  font-size: 1em;
+  border-style: none;
+  border: 2px solid;
+  border-radius: 15%;
+  transition: 0.4s;
+  color: black;
+}
+
+.button:hover {
+  background-color: yellow;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}

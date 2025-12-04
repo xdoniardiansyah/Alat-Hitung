@@ -1,0 +1,20 @@
+alat hitung
+
+3 file = javascript, html, css
+
+- index.html
+ + buat bagian atas Judul
+ + bawahnya angka sekarang
+ + 4 button 1. kurang, 2. reset, 3.tambah, 4.theme
+
+- style.css
+ + mengubah text 
+ + mengganti warna text
+ + menghapus decor button
+ + borderradius
+
+- main.js
+ + button kurang = mengurangi angka pada tampilan
+ + button reset = menjadikan angka tampilan menjadi 0
+ + button tambah = menambahkan angka pada tampilan
+ + button theme = mengubah warna background menjadi black
